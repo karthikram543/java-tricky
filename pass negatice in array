@@ -1,0 +1,12 @@
+public class string {
+
+	public static void main(String[] args) {
+		string obj=new string();
+		obj.numbers();
+	}
+		
+	void numbers() {
+	
+		int array[]=new int[-8];
+}
+}
